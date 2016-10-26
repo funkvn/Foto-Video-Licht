@@ -1,6 +1,7 @@
 # Foto-Video-Licht
 
-Detaillierte Umsetzung des Vorschlags aus Make: 2/16, Seite 128.
+Detaillierte Umsetzung des Vorschlags aus
+[Make: 2/16, Seite 128](http://www.heise.de/make/inhalt/2016/02/128/).
 
 Ziel dieses Projekts ist auch, die Fertigung vollständiger zu
 dokumentieren, als es in einem gedruckten Heft möglich ist.
