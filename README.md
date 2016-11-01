@@ -5,25 +5,51 @@ Detaillierte Umsetzung des Vorschlags aus
 
 Ziel dieses Projekts ist auch, die Fertigung vollständiger zu
 dokumentieren, als es in einem gedruckten Heft möglich ist.
-Insbesondere die Auswahl einzelnern Komponenten soll hiermit
-erleichtert werden.
 
-## Material
+Für den Nachbau soll damit soll die Auswahl der Komponenten
+beschleunigt werden. Die Recherchen kosten ganz schön Zeit...
 
-1. Dosen -- lecker, Lindt!
-1. Ripstop für die "Bespannung", die Mattscheibe:  
-   https://www.stoffe-hemmers.de/ripstop-weiss  
-   1,5 Meter breit, 1 Meter für 4,95 Euro zzgl. 4,95 Versand
-1. Stativ-Befestigung  
-   http://www.ebay.de/itm/152254833188
-   Länge des Adapters: 28 mm__
-   2 Stück, 6,90 Euro inkl. Versand (aus Deutschland;
-   China-Ware deutlich günstiger, doch mit entsprechend längerem Versand)
-1. Stativ__
-   http://www.ebay.de/itm/201507544760__
-   Günstiges Mini-3-Bein-Stativ, 4,99 Euro inkl. Versand aus Ausland (korrekte Rechnung?)
+## Materialliste
 
-## Das Gehäuse -- Verpackungen aus Metall
+1. LED-Streifen (LED Stripe)
+1. [Verpackungsdose -- Lindt Weihnachts-Zauber (lecker!)](#gehäuse)  
+   9,99 €
+1. [Halter, bestehend aus](#halter)
+  1. Alu-Flachstange
+  1. Schrauben, Unterlegscheiben, Flügelmuttern
+  1. Stativ-Adapter
+1. [Ripstop für den Diffusor](#diffusor)  
+   4,95 € (zzgl. 4,95 € Versand)
+1. Elektrik
+  1. Buchse für Hohlstecker (5,5 x 2,1 mm)
+  1. Hohlstecker
+  1. XT60-Stecker/-Kupplung
+  1. Akku (LiPo 6S, 22,2 V)
+  1. LiPo-Alarm
+1. [Mini-Stativ (sofern gewünscht)](#stativ)  
+   4,99 €
+
+**Die Teile im Einzelnen:**
+
+## Elektrik
+
+### Buchse für Hohlstecker (5,5 x 2,1 mm)
+
+Verschiedene Varianten stehen zur Auswahl. Entscheidung noch nicht
+gefallen:
+
+Conrad Electronic:
+
+125 V/3 A  
+https://www.conrad.de/de/niedervolt-steckverbinder-buchse-einbau-vertikal-55-mm-21-mm-1-st-738190.html  
+12 V/5 A  
+https://www.conrad.de/de/niedervolt-steckverbinder-buchse-einbau-vertikal-55-mm-21-mm-072335-1-st-733946.html?sc.ref=Product%20Details
+
+## Gehäuse
+
+Wie im Ausgangsartikel aus der **Make:** empfehle ich hier
+Verpackungsdosen. Um eine zusätzliche Grundplatte zu sparen, sind
+weniger tiefe praktisch.
 
 Ich nutze die Dosen von Lindt. Die sind nicht so tief und gut
 erhältlich. Außerdem sind sie gar nicht so teuer: zieht man den Preis
@@ -68,6 +94,14 @@ Maße 133 x 212 mm.~~ Angesichts der Kosten (8,40 Euro bei
 [Alu-Shop](https://www.aluminium-online-shop.de/de/shop-aluminium-kleinstmengen/Bleche---Platten-_-4/index.html))
 wird der Plan zurück gestellt.
 
+## Halter
+
+Der Halter besteht aus mehreren Teilen:
+
+1. Alu-Profil (der Halter selbst)
+1. Schrauben, Unterlegscheiben, Flügelmutter
+1. Stativ-Befestigung
+
 Der Halter bekommt eine Länge von 460 mm (gemessen nach Zeichnung,
 ohne neutrale Faser: 458,916 mm). Und eine Breite von 20 mm. Die
 Stärke soll 2 oder 3 mm sein, da bestelle ich beides, wie auch bei der
@@ -82,7 +116,30 @@ mind. 20&nbsp;mm (Blech, 10 mm Luft, 2 oder 3 mm Halter, U-Scheibe,
 Flügelmutter). Welche Art von Schraube ist auch noch zu eruieren; sie
 soll möglichst wenige mitdrehen und dennoch einfach zu montieren sein.
 
-## Der Diffusor, die Mattscheibe
+### Stativ-Befestigung
+
+Die Stativ-Befestigugn wird aus einem Adapter gemacht. Diese gibt es
+günstig bei eBay.
+
+In diesem Fall war es der hier:
+[2 Stück, 6,90 Euro inkl. Versand (aus Deutschland)](http://www.ebay.de/itm/152254833188)
+China-Ware gibt es noch deutlich günstiger, doch mit entsprechend
+längerem Versand.
+
+Länge des Adapters: 28 mm
+
+## Stativ
+
+Wie man's braucht.
+
+Für den Einsatz auf Tischen oder Eisenbahn-Landschaften besorgte ich
+mir bei eBay ein günstiges
+[Mini-3-Bein-Stativ, 4,99 Euro inkl. Versand aus Ausland (korrekte Rechnung?)](http://www.ebay.de/itm/201507544760)
+
+## Diffusor
+
+Zum Einsatz kam weißes Ripstop von [Stoffe Hemmers](https://www.stoffe-hemmers.de/ripstop-weiss).
+1,5 Meter breit für 4,95 Euro pro Meter (zzgl. 4,95 Euro Versand).
 
 Interessant, wenn auch recht teuer: selbstklebendes Ripstop, allerding
 nicht in weiß:  
